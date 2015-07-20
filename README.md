@@ -1,4 +1,4 @@
-## Foundations II: JavaScript 
+## Foundations II: JavaScript
 ### Lab 2, Beginning Track
 
 1. Make sure you're logged in to your account on GitHub.
@@ -15,3 +15,5 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+
+I used MDN website to review details of Array and String methods.
